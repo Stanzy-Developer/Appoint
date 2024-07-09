@@ -23,7 +23,7 @@ The app supports two types of appointments: virtual and in-person. It sends emai
 
 ## Information
 - Title:  `Appoint`
-- Authors:  `mesfincode`
+- Authors:  `Stanley`
 - Live Website: [Appoint](http://appoint-beige.vercel.app/)
 
 ## Tech Stack
